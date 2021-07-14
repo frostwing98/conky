@@ -1,0 +1,11 @@
+/usr/bin/nohup: /usr/bin/nohup: cannot execute binary file
+conky: warning: invalid head index, ignoring head settings
+conky: warning: invalid head index, ignoring head settings
+conky: desktop window (500000a) is subwindow of root window (242)
+conky: window type - panel
+conky: drawing to created window (0x4c00002)
+conky: drawing to double buffer
+conky: forked to background, pid is 22645
+
+conky: defining struts
+conky: received SIGINT or SIGTERM to terminate. bye!
